@@ -12,7 +12,7 @@
     "@github/copilot-language-server-darwin-x64": "1.387.0",
     "@xterm/addon-fit": "^0.10.0",
     "@xterm/xterm": "^5.5.0",
-    "monaco-editor": "0.52.2"
+    "monaco-editor": "0.55.1"
   },
   "devDependencies": {
     "@types/node": "^22.15.17",
